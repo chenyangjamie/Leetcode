@@ -13,7 +13,8 @@ Credits:
 Special thanks to @ts for adding this problem and creating all test cases.
 */
 
-
+// Solution:
+/*
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
