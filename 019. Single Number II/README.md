@@ -1,5 +1,10 @@
 # Leetcode
 
+Very good explanation for this problem. Consider this problem via bit manipulation.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 https://leetcode.com/discuss/43377/the-simplest-solution-ever-with-clear-explanation
 
 The key to solve this problem is the count of 1s of each bit of all numbers.
