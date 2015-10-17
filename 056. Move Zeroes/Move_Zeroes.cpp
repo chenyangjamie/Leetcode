@@ -22,7 +22,7 @@ public:
             }
         }
     }
-    void swap(int& v1, int& v2) {
+    void swap(int& v1, int& v2) { // pass by reference
         v1 = v1 ^ v2;
         v2 = v1 ^ v2;
         v1 = v1 ^ v2;
